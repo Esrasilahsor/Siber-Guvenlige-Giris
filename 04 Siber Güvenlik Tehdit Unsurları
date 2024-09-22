@@ -1,0 +1,122 @@
+			04 Siber Güvenlik Tehdit Unsurları
+
+
+		Zararlı Yazılım(Malware):
+
+Sistemleri parçalamaya, bilgi sızdırmaya, sistemi ele geçirmeye yönelik olabilir. 
+
+Özünde her zararlı yazılım bir kod parçacığıdır. Onları kendi içerisinde kategörize eden şey bulaştıkları sistemde nasıl davranışlar sergiledikleridir.  
+
+
+	Virüs:
+
+Genellikle zararlı bir program veya bir kod parçasıdır. Bilgisayarınıza bulaştığında, zararlı kodlar çalışır ve cihazınıza zarar verebilir. 
+
+E-posta ekleri, kötğ amaçlı web siteleri, yazılım güncellemeleri veya zararlı programların yasadışı kopyaları bulunabilir. 
+
+
+	Worm(Solucanlar):
+
+Bilgisayar ağlarında hızla yayılan ve çoğalan, zararlı bir yazılım türüdür. 
+
+Bir worm, bilgisayar ağı veya cihaz içindeki diğer cihazlara kendini kopyalayabilen bir zararlı yazılımdır. Kendilerini çoğaltarak hızla yayılır ve genellikle bilgisayar sistemlerine zarar verirler. 
+
+Genelliikle bilgisayar ağlarında veya internet üzerindeki güvenlik açıklarını kullanarak yayılırlar. Enfekte edilmiş bir cihazdan diğer cihazlara otomatik olarak kopyalanabilirler. E-posta elentileri veya indirilebilir dosyalar gibi bulaştırma yöntemleri de kullanılabilir. 
+
+
+	Casus Yazılım(Spyware):
+
+Kullanıcının bilgisayarını veya diğer cihazlarını
+izlemek, bilgi toplamak ve genellikle izinsiz olarak kişisel bilgileri çalmak amacıyla tasarlanmış zararlı yazılımlardır.
+
+Spyware, kullanıcının bilgisayar aktivitelerini izleyen ve toplayan bir yazılım türüdür. Bu yazılım, genellikle kullanıcının izni olmadan veya farkında olmadan kurulur.
+
+Spyware, kullanıcının gezdiği web sitelerini, klavye girişlerini, e-posta adreslerini, parolaları ve diğer kişisel bilgileri kaydedebilir.
+
+Spyware, genelikle ücretsiz yazılımların veya uygulamaların içine gizlenmiş olarak gelir. Kullanıcılar bu yazılımları indirip kurduklarında spyware de sistemlerine bulaşır.
+Bazi web siteleri, zararlı pop-up reklamlar aracılığıyla da spyware bulaştırabilir.
+
+
+	Truva Atları(Trojans):
+
+Görünüşte zararsız veya yararlı bir program veya dosya
+gibi davranarak, kullanıcının bilgisayarına kötü amaçlı yazılım bulaştırmak için tasarlanmış bir tür zararlı yazılımdır.
+
+Görünüște zararsız bir program veya dosya gibi davranır, bu nedenle kullanıcılar tarafindan kolayca kurulabilir.
+Amaçları, bilgisayara kötü amaçlı yazılım, casus yazılım veya diğer zararlı işlevleri yüklemektir.
+
+Trojanlar, genellikle bilgisayar kullanıcılarına
+güvenilir ve çcekici görünen e-posta ekleri,
+indirilebilir dosyalar veya uygulamalar aracılığıyla bulaştırılır. Kullanıcılar, bu dosyaları veya uygulamaları indirip açtıklarında Trojan bilgisayarlarına bulaşır.
+
+
+	Botnet'ler:
+
+Bot terimi robotun kısaltmasıdır. 
+
+Amacı, bilgisayarınızı bir bot'a(zombi) çevirebilen kötü amaçlı yazılımları dağıtmaktır. Böyle bir durumda bilgisayarınız, sizin haberiniz olmadan internet üzerinde otomatik görevleri gerçekleştirebilir. 
+
+Bilgisayarlara ve cihaza bulaşmak için genelllikle kötü amaçlı e-posta ekleri, bulaşmış web siteleri, güvensiz uygulamalar veya diğer kötü niyetli yazılımlar aracılığıyla yayılırlar. 
+
+
+	Fidye Yazilımı(Ransomware):
+
+Adını rehine verileri fidye karşılığı serbest bırakma eyleminden alır. 
+
+Bilgisayarı veya dosyaların tamamını şifreleyerek kullanıcı erişimini engeller. 
+
+Genellikle sahte e-posta ekleri, kötü amaçlı web siteleri, güvensiz indirme kaynakları veta açıkları kullanarak bilgisayara bulaşırlar. 
+
+
+	Buffer Overflow:
+
+Bir programın bellek alanının sınırlarının dışına çıkılarak kötü amaçlı kodların çalıştırılmasına izin veren bir güvenlik açığıdır. 
+
+
+	Cross-Site Request Forgery(CSRF):
+
+Saldırganların kullanıcıların hesaplarını izinsiz olarak farklı bir web sitesi üzeriinden işlem yapmaya zorladığı bir saldırı türüdür. 
+
+Örneğin bir saldırgan, kullanıcının banka hesabından para transferi yapmasını isteyen sahte bir web sayfası oluşturabilir. 
+
+	Cross-Site Scripting(XSS):
+
+Saldırganlarıın web sitelerine zararlı kodlar ekleyerek kullanıcıların tarayıcılarında çalışmasını sağladığı bir saldırı türüdür.
+
+Örneğin kullanıcılara zararlı bir JavaScript kodu içeren sahte bir e-posta gönderebilir.  
+
+
+	Broken Access Control:
+
+Kullanıcıların izin verilmeyen kaynaklara veya işlevlere erişim sağlamasına izin veren bir güvenlik açığıdır. 
+
+
+	Zero-Day Exploits(0 Days):
+
+Yazılım veya sistemin güvenlik açıklarının keşfedildiği ve henüz üretici tarafından düzeltilmediği durumdur. 
+
+Örneğin saldırganlar, henüz açığı kapatılmamış bir yazılm veya işetim sistemi güvenlik açığından faydalanabilirler. 
+
+
+	Port Configuration Hataları:
+
+Ağ cihazının yanlış yapılandırılması sonucu ağ güvenliğinin tehlikeye girmesi.
+
+Örneğin açık bir ağ bağlantısı, yetkisiz erişimlere yol açabilir. 
+
+
+	RAT(Remote Access Trojan):
+
+Saldırganlar bir bilgisayar sistemine uzktan erişim sağlamak amajıyla kullanılan truva atlarıdır. 
+
+
+	Man-in-the-Middle(MITM) Saldırıları:
+
+Saldırganlar iki iletişen tarafın arasına girerek iletileri izlemesine veya manipüle etmesine olanak tanıyan saldırı türü.
+
+Örneğin bir kişi halka açık Wİ-Fİ ağı üzerinden verileri izleyebilir veya değiştirebilir. 
+
+
+	Denial-of-Service(DOS) Saldırıları:
+
+Hedeflenen sistem veya ağa yoğun talep gönderilerek hizmetin kesilmesine neden olan saldırılar.

@@ -1,0 +1,43 @@
+			07 Siber Güvenlik Alanları
+
+
+	Donanım ve Altyapı Güvenliği:
+
+Donanım güüvenliği, bilgisayar sistemlerinin ve cihazlarının donanım bileşenlerinin, yazılım saldırılarına veya fiziksel tehditlere karşı korunmasını sağlayan bir bilgi güvenliği dalıdır. 
+
+Temel amaç donanımın gizlilik, bütünlük ve erişilebilirlik açısından güvende olmasını sağlamaktır. 
+
+
+	Alt Yapı Güvenliği:
+
+Bir organizasyonun bilgisayar ağlarının, sunucularının, yönlendiricilerinin ve diğer altyapı bileşenlerinin gğvende olduğundan emin olma sürecini ifade eder. Bu, ağ erişiminin sınırlanması, güçlü kimlik doğrulama ve veri iletişiminin şifrelenmesi gibi önlemleri içerir. 
+
+
+	İşletim Sistemi Güvenliği:
+
+Bilgisayar ve sunucu üzerinde çalışan işletim sistemlerinin güvende olduğundan emin olma sürecini ifade eder. Bu, güncellemelerin düzenli olarak uygulanması, gereksizz hizmetlerin kapatılması ve güçlü parola politikalarının uygulanması gibi önlemleri içerir. 
+
+
+	Veri Sızıntısı(Data Breach):
+
+Hassas veya kişisel bilgilerin yetkisiz erişim veya ifşa sonucu sızdırıldığı bir olaydır. 
+
+Bu bir tür sızıntı, kişisel bilgilerin, finansal bilgilerin, sağlık kayıtlarının veya diğer hassas verilerin yetkisiz kişilerin eline geçmesi durumunda meydana gelir. 
+
+Veri sızıntıları, organizasyonlarının veya bireylerin güvenliğini ve gizliliğini tehlikeye atabiliriz. 
+
+İstem Dışı(Kazara) Veri Sızıntısı: Verinin yetkisiz bir şekilde ifşa edilmesine veya kaybedilmesine neden olan istem dışı olayları ifade eder. 
+
+Bu sızıntılar genelde insan hataları, teknik arızalar veya kötü niyetli olmayan ihlaller sonucu ortaya çıkar. 
+
+İstemli(Kasıtlı) Veri Sızıntısı: Verilerin kötü niyetli bir eylem sonucu ifşa edilmesine neden olan bir durumu ifade eder. 
+
+Bu tür sızıntılar, bilinçli bir şekilde veri çalmayı veya ifşa etmeyi amaçlayan kişiler veya gruplar tarafından gerçekleştirilir. 
+
+Saldırganlar hassas verilere erişmek veya bu verileri kötü amaçlı olarak kullanmak için çeşitli yöntemler kullanabilirler. 
+
+
+	Veri Sızıntısı Önleme:
+
+Hassas veya kişisel bilgilerin yetkisiz erişim veya ifşa sonucu sızdırılmasını engellemeyi amaçlar. Bu, organizasyonların veya bireylerin gizliliğini ve verilerin güvenliğini korumak için alınan önlemleri içerir. 
+

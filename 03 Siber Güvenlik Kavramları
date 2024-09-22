@@ -1,0 +1,90 @@
+			03 Siber Güvenlik Kavramları
+
+
+	Siber Tehdit(Cyber Threat):
+
+Bilgisayar sistemlerine veya dijital ortama zarar verme veya hassas bilgilere erişme amacıyla gerçekleştşrşlen herhangş bir potansiyel zararlı aktiviteyi ifade eder. 
+
+
+	Siber Saldırı(Cyber Attack):
+
+Bilgisayar sistemlerine veya dijital altyapılara yönelik saldırılar, siber tehditin gerçekleştirildidi eylemlerdir. 
+
+
+	Firewall(Güvenlik Duvarı):
+
+Ağ trafiğini inceleyen ve izin verilen trafiği geçiren, izin verilmeyen trafiği engelleyen bir güvenlik cihazıdır. 
+
+
+	Şifreleme(Encryption):
+
+Bilgileri açık metin halinden, anlaşılması zor hale getirerek güvenli bir şekilde saklanmasını veya iletilmesini sağlayan bir güvenlik yöntemidir. 
+
+
+	Kimlik Doğrulama(Authentication):
+
+Kullanıcıların veya sistemlerin kimliklerini doğrulama sürecidir. Parola, biyometrik veriler veya iki faktörlü kimlik doğrulama örnek verilebilir. 
+
+
+	Yetkilendirme(Authorization):
+
+kimlik doğrulama sonrasında kullanıcılara veya sistemlere belirli kaynaklara erişim izni verilmesi sürecidir. 
+
+
+	Sosyal Mühendislik(Social Engineering):
+
+Siber Saldırganlar insanları manpüle ederek hassah bilgilere veya sistemlere erişmeye çalıştırğı bir saldırı taktiğidir. Örnekler arasında sahtekarlık, telefon dolandırıcılığı ve phishing(oltalama) yer alır. 
+
+
+	Veri Sızıntısı:
+
+Hassas veya kişisel bilgilerin izinsiz bir şekilde sızdırılması veya çalınmasıdır. Bu, kullanıcıların gizliliğinin ihlal edilmesine neden olabilir.
+
+
+	Ağ Güvenliği(Network Security):
+
+Bilgisayar ağlarını, ağ trafiğini ve verileri koruma amacıyla alınan önlemleri ifade eder. 
+
+
+	Ofansif Güvenlik(Hacking):
+
+Sistemlerin veya ağların gğvenlik önlemlerini aşmayhı amaçlayan siber saldırılar veya testler için kullanılan teknikler ve stratejiler. 
+
+
+	Defansif Güvenlik(İyileştirme-Güçlendirme):
+
+Bilgisyar sitemlerini ve ağları koruma amacıyla gğvenlik önlemlerini geliştirme ve iyileştirme süreçleri. 
+
+
+	Sızma Testleri(Penetrasyon Test):
+
+Bilgisayar sistemlerinin veya ağların güvenlik açıklarını ve zaafiyetlerini belirlemek için yapılan kontrollü saldırılardır. 
+
+İç Ağ Sızma Testleri: Bir organizsayonun iç apındaki güvenlik açıklarını ve riskleri değerlendirmek için gerçekleştirilen sızma testleri.
+
+Dış Ağ Sızma Testleri: Bir organizasyonun dış ağındaki güvenlik açıklarını ve riskleri değerlendirmek için gerçekleştirilen sızma testleri.
+
+Uygulamaya Yönelik Sızma Testleri: Web uygulamalrı veya mobil uygulamalar gibi yazılım uygulamalarının güvenlik açıklarını ve zaafiyetlerini tespit etmek için yapılan testlerdir. 
+
+Bilgi Toplama Yöntemleri: Siber saldırganların veta gğvenlik uzmanalarını  hedef sistem veya organizasyon hakkında bilgi toplama işlemleri. Pasif bilgi toplama, kamu kaynaklarından veri toplamayı içerirken, aktif bilgi toplama, hedef sistemle doğrudan etkileşim gerektirebilir. 
+
+
+	Sızma Testi Yöntemleri:
+
+Black Box(Siyah kutu): Önceden hiçbir bilgiye sahip olunmadan test edilme.
+
+White Box(Beyaz kutu): Tam bilgiye sahip olunarak test edilir. 
+
+Gray Box(Gri kutu): Kısmi bilgiye sahip olunarak yapılan bir yaklaşımı ifade eder. 
+
+
+	Siber Terör:
+
+Siber alanlarda yasa dışı veya tehlikeli eylemleri teşvik eden vey gerçekleştiren bir grıp veya bireyler tarafınfan gerçekleştirilen eylemleri tanımlayan bir terimdir. 
+
+Geleneksel terörizmin dijital ortamda gerçekleşen bir uzantısıdır. 
+
+
+	Siber Suç:
+
+Bilgisayarlar, ağlar ve dijital teknoloji kullanarak yasadışı faaliyetlerde bulunma eylemidir. Bu faaliyetler genellikle finansal kazanç, veri çalma veya zarar verme amaçları taşır. 

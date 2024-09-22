@@ -1,0 +1,82 @@
+			05 Sosyal Mühendislik
+
+
+		Siber Güvenlikte Karşılaşılan Sosyal Mühendislik Tehditleri:
+
+	Phishing (Oltalama): 
+
+Saldırganlar, sahte e-postalar, web siteleri veya mesajlar kullanarak kullanıcıları kişisel bilgileri ifşa etmeye veya kötü amaçlı yazılımları indirmeye ikna etmeye çalışır. 
+
+Örneğin kullanıcılara sahte bir banka e-postası göndererek, hesap bilgilerini paylaşmalarını isteyen bir phishing saldırısı.
+
+ 	Spear Phishing:
+
+Phishing'in özelleşmiş bir türüdür; saldıranlar belirli kişileri hedef alarak daha inandırıcı mesajlar gönderir. 
+
+Örneğin CEO'yu taklit eden bir e-posta göndererek finans müdürünü para transferi yapmaya ikna etmeye çalışan bir spear phishing saldırısı. 
+
+ 	Shoulder Surfing (Omuz Sörfü):
+
+Saldırganlar, birisinin bilgisayar ekranını veya klavyesini izleyerek hassas bilgilere erişim sağlamaya çalışır.
+
+Örneğin halka açık bir Wi-Fi ağına bağlıyken, yan masada oturan kişinin şifresini izlemek. 
+
+ 	Dumpster Diving (Çöp Karıştırma):
+
+Saldırganlar, kurumların veya bireylerin çöplerini karıştırarak hassas bilgilere ulaşmaya çalışır. 
+
+Örneğin bir işyeri atıklarını karıştırarak, bilgisayarların atılan belgeleri üzerinden önemli bilgilere erişmeye çalışan bir saldırgan.
+
+	Role Playing (Rol Yapma):
+
+Saldırganlar, güven kazanmak veya inandırıcılıklarını arttırmak için sahte bir rol üstlenirler. 
+
+Örneğin teknik destek uzmanı gibi davranarak, kullanuculardan uzaktan bilgisayarına erişim izni talep eden bir role playing saldırısı.
+
+ 	Pretexting (Bahane Uydurma):
+
+Saldırganlar, inandırıcı bir bahane uydurarak kişilerden veya yardım talep ederler. 
+
+Örneğin sahte bir müşteri temslicisi gib davranarak, bir kişinin banka hesabı bilgilerini çalmaya çalışan bir pretexting saldırısı
+
+	Baiting (Yemleme):
+
+Saldırganlar, kullanıcıları kötü amaçlı yazılım içeren çekici dosyalar veya cihazlarla cezbetmeye çalışır. 
+
+Örneğin usb belleği park halindeki bir araçta bırakarak, bulan kişinin bilgisayarına kötü amaçlı yazılım bulaştırmaya çalışan bir baiting saldırısı
+
+	Tailgating (Kuyrukta Sürünme):
+
+Saldırganlar, birisinin yetkili bir alana girmesine izin verilmesini bekleyerek güvenlik önlemlerini atlarlar. 
+
+Örneğin bir işyerinin girişinde başkasının arkasından girerek içeri sızma girişimi
+
+	Quid Pro Quo (Karşılık Bekleme):
+
+Saldırganlar, kullanıcıları bir hizmet sunmaya veya yardım etmeye söz vererek bilgi elde etmeye çalışır. 
+
+Örneğin sahte bir teknik servis destek uzanı olarak arayan saldırgan, bilgisayarın şifresini öğrenmek için yardım isteyebilir. 
+
+	Impersonation (Kimlik Taklidi):
+
+Saldırganlar, başkasını kimliğini taklit ederek güven kazanmaya çalışır.
+
+Örneğin birinin telefon numarasını taklit ederek, sahte b,r kimlikle banka işlemi yapmaya çalışan bir impersonation saldırısı.
+
+	Pharming (Çiftçilik):
+
+Saldırganlar, kullanıcıları sahte web sitesilerine yönlendirerek kişisel bilgilerini toplamaya çalışır. Phishinge göre daha büyük ölçeklidir.  
+
+Örneğin kullanıcıların sahte bir banka web sitesine yönlendiren ve giriş bilgilerini çalmaya çalışan bir pharming saldırısı
+
+	Vishing (Sesli Fishing):
+
+Saldırganlar, telefonla arayarak kurbanları kişisel bilgileri veya finansal bilgileri vermek konusunda kandırmaya çalışabilir. 
+
+Örneğin sahte bir banka temsilcisi olarak arayan saldırgan, müşterilerden hesap bilgilerini vermesini isteyebilir. 
+
+	Water Holing:
+
+Saldırganlar, kurbanlarının sık kullandığı web sitelerini hedef alarak kötğ amaçlı yazılım veya phishing kampanyaları düzenler. 
+
+Örneğin bir sektörün ilgi çekici bir web sitesini hackleyen ve ziyaretçilerini kötü amaçlı yazılım ile enfekte etmeye çalışan bir water holing saldırısı. 

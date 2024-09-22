@@ -1,0 +1,88 @@
+			09 Güvenli Kodlar ve Risk Yönetimi
+
+
+	OWASP:
+
+Güvenli yazılım geliştirme demektir. Açık kaynaklı bir topluluk tarafundan yönetilen bir projeyi ifade eder.
+
+Yazılım web uygulamalrının güvenliğini arttırmayı amaçlayan bir dizi kaynak ve rehber sunar. OWASP, web uygulama güvenliği alanında dünya genelinde tanınan bir otoritedir. 
+
+Geliştiricilere, güvenlik profesyonellerine ve organizasyonlara;
+
+-Güvenli Uygulama Geliştirme,
+-Siber Tehditlere Karşı Koruma,
+-Eğitim ve Bilgilendirme gibi konularda yardımcı olur. 
+
+Güvenli yazılım geliştirme uygulamalarını benimsemek, organizasyonların siber saldırılardan kaynaklanan veri sızıntıları ve maddi kayıpları önlemelerine yardımcı olabilir. 
+
+OWASP, yazılım güvenliği için bir standart oluşturu ve bu nedenle büyük bir öneme sahiptir. 
+
+
+		Güvenlik Amaçlı Kod Analizleri:
+
+Yazılım geliştirme sürecinde güvenlik açıklarını tespit etmek ve önlemek amacıyla eklenen programlama kodlarını ifade eder. Bu kodlar yazılımın siber saldırılara ve güvenlik ,hlallerine karşı dayanıklı olmasını sağlar.
+
+Yazılımın zayıf noktalarını tespit eder ve düzelmesine yardımcı olur. 
+
+
+	Statik Kod Analizi: 
+
+Bu, yazılımın kaynak kodunun incelenmesiyle gerçekleştirilen bir güvenlik testidir. 
+
+Otomatik analiz araçları kullanılarak kod üzerinde potansiyel güvenlik açıkları ve hatalar tespit edilir. 
+
+Bu analiz, kodun yazılım geliştirme aşamasında yapıldığı için daha erken tespit etme ve düzeltme imkanı sağlar. 
+
+
+	Dinamik Kod Analizi:
+
+Bu yazılımın çalışma zamanında test edilmesini içerir. 
+
+Uygulama çalışırken güvenlik açıkları ve zayıf noktalar test edilir. 
+
+Bu analiz, uygulamanın gerçek dünya koşullarında nasıl davrandığını değerlendirmeye yardımcı olur. 
+
+Dinamik analiz, ürünün çalışırken, kullanıcıya sunulmuşken veya sunulmasına çok az bir zaman kalmışken yapılan analizdir. 
+
+
+		Güvenli Yazılım Geliştirme Yaşam Döngüsü(SSDLC):
+
+Yazılım geliştirme sürecinin her aşamasında güvenlik önlemlerinin ve uygulamalarının entegre edilmesini sağlayan bir metodoloji veya süreçtir. 
+
+SSDLC, yazılımın tasarımından başlayarak kodlama, test, yayınlama ve bakım aşamalarını içerir ve güvenlik açıklarının en erken tespitini ve düzeltilmesini hedefler. 
+
+	Güvenlik Açıklarının Erken Tespiti: 
+
+Yazılım geliştirme sürecinin her aşamasında güvenlik değerlendirmeleri yaparak potansiyel tehditleri erken tespit eder. 
+
+	Yazılım Güvenliği Kültürünü Teşvik Eder:
+
+Geliştiricilerin ve diğer ekip üyelerinin yazlım güvenliği konusunda bilinçlenmelerine ve eğitimlerine yardımcı olur. 
+
+
+		Siber Güvenlik Risk Yönetimi:
+
+Siber Riskler, bilgi teknolojileri ve internetin kullanımıyla ilişkilendirilen potansiyel tehlikeleri fark eder. 
+
+Risk yönetimi, organizasyonların karşılaştığı riskleri tanımlama, analiz etme, değerlendirme, azaltma veya kabül etme sürecini ifade eder. 
+
+Siber risk yönetimi, organizasyonların siber tehditleri ve riskleri belirlemesine, bu riskleri azaltmasına veya kabul etmesine ve uygun güvenlik önlemlerini uygulamasına yardımcı olur. 
+
+Siber risk yönetimi, tüm organizasyonlar için önemlidir, özellikle büyük kuruluşlar, finans kurumları ve sağlık sektörü gibi hassas verilere sahip olanlar için daha kritiktir. 
+
+** Türk Standartları Enstitüsü(TSE) tarafından kabul edilen bu standart, Türkiyede bilgi güvenliği için en yaygın olarak kullanılan standarttır. 
+
+	
+	ISO/IEC 27032 Siber Güvenlik:
+
+ISO/IEC 27032, Siber Güvenlik Yönetim Sistemi, Siber uzaydaki veri bilgilerinin gizliliğinin,  bütünlüğünün, ve erişilebilirliğinin korunması anlamına gelir. 
+
+Bu standart, bilgi güvenliği, ağ ve internet güvenliği ve kritik bilgi altyapısı koruması(CIIP) ile ilgili olarak siber uzayda farklı güvenliklerin rolünü vurgulamayı amaçlar. Tüm işletmelerin bu güvenlik standartını kullanması gereklidir. 
+
+
+	KVVK:
+
+Türkiyede kişisel verilerin korunmasını düzenleyen bu kanun, siber güvenlikle de ilgilidir. 
+
+Organizasyonlar, kişisel verilerin güvenliğini sağlamak için çeşitli siber güvenlik önlemleri almak zorundadır. 
+

@@ -1,0 +1,55 @@
+			06 Hacker Metodolojisi ve Siber Güvenlik Önerileri
+
+
+	Reconnaissance: 
+
+Bilgi toplama amacıyla yapılır. Genel olarak pasif tarama yapılır. Kamuya açık bilgilerden yararlanılır. 
+
+
+	Scanning:
+
+Tarama işlemlerine başlanır. Genelde aktif tarama yapılır. Nmap vb uygulamalar kulanılabilir. HEdef hakkında bilgiler elde edilir. 
+
+
+	Gaining Access:
+
+Zaafiyetleri anlamaya çalışmak demektir. Tarama sonuçları kullanılabilir. 
+
+
+	Maintain Access:
+
+Belirli bir kaynağa, hizmete veya bilgiye sürekli erişimi sağlamak anlamına gelir.
+
+
+	Covering Access:
+
+Belirli bir kaynağa veya hizmete erişimi sağlama ve bu erişimi koruma anlamına gelir.
+
+Bu terim, erişim haklarının yönetimi, güvenlik politikalarının uygulanması ve kullanıcıların ihtiyaç duydukları kaynaklara kesintisiz erişimlerinin sağlanması gibi konuları kapsar.
+
+
+	Siber Güvenlik Önerileri:
+
+Firewall Kullanımı
+
+Güncel Yazılımlar ve Yama Yüklemeleri
+
+Güçlü Parolalar ve Kimlik Doğrulama
+
+Eğitim ve Farkındalık
+
+Anti-Virüs ve Anti-Malware Yazılımları
+
+Saldırı izleme ve Incelenmesi
+
+Ağ Güvenliği Duvarları (Intrusion Detection and Prevention Systems - IDPS)
+
+Veri Yedeklemeleri
+
+Fidye Ödememe Politikası
+
+Ayrıcalklı Erişim Kontrolleri
+
+Gelişmiş Güvenlik Ekipmanları
+
+Siber Güvenlik Politikaları ve Prosedürler

@@ -1,0 +1,72 @@
+			08 Siber Güvenlik Alanları 2
+
+
+	Parola/Şifre Nedir:
+
+Parola bir kullanıcının belirli bir hesba veya sistemde kimliğini doğrulamak için kullandığı gizli karakter dizisidir. 
+
+	Parola Güvenliği:
+
+Parola güvenliği, kullanıciların parolalarını güvende tutma ve kötü niyetli kişilerin hesaplara yetkisiz erişimini engelleme pratiğini ifade eder.
+
+Güçlü parola güvenliği, zorlukla tahmin edilebilecek karmaşık parolaların kullanılmasını içerir. Ayrica, parolalarin düzenli olarak değiştirilmesi ve güvende tutulmasl da önemlidir.
+
+Güçlü bir parola, büyük harf, küçük harf, rakam ve sembollerin karışımını içerir ve kişisel bilgilere dayanmaz.
+
+
+	Parola Saldırıları:
+
+Parola saldırıları, kötü niyetli kişilerin veya yazılımın bir hesaba veya sistemdeki parolayı tahmin etmeye veya kırarak yetkisiz erişim elde etmeye çalıştığı siber saldirı türleridir.
+
+1. Brute Force Saldırısı:
+Örnek: "aaaaa", "aaaab", "aaaac", ..
+
+2. Dictionary Saldırısı:
+Örnek: "password", "admin", "123456"
+
+3. Phishing Saldırısı:
+Örnek: Kullanıcıların banka hesap bilgilerini girmelerini isteyen sahte bir banka web sitesi.
+
+4. Rainbow Table Saldırısı:
+Örnek: Önceden hesaplanmış MD5 veya SHA-1 karma değerlerini içeren bir veritabanı.
+
+
+	Veritabanı Güvenliği:
+
+Veritabanı, yapılandırılmış bir şekilde bilgi saklamak, düzenlemek, erişmek ve sorgulamak için kullanılan bir elektronik depolama sistemidir. 
+
+Veritabanı, büyük miktarda verinin güvenli ve düzenli bir şekilde yönetilmesine olanak tanır. bu veriler, metin, sayılar, resimler, sesler veya diğer veri türlerini içerebilir. 
+
+Veritabanı güvenliği, bir veritabaının içerdiği bilgilerin ve yapıların yetkisiz erişimden, değiştirilmeden veya yok edilmeden korunmasını sağlamayı amaçlar. 
+
+
+	Veritabanı Güvenliği Unsurları:
+
+1- Erişim kontrolleri
+2- Şifreleme
+3- Günlük kayıtları
+4- Yedekemeler
+5- Güncel yazılım ve yama yüklemeleri
+6- Saldırı tespit ve önleme sistemleri(IDS/IPS)
+
+
+	Kurumsal Ağ(Corporate Network):
+
+Bir organizasyonun veya işletmenin içindeki bilgisayarların ve diğer cihazların birbiriyle iletişim kurduğu, bilgi ve veri paylaştığı özel bir iletişim altyapısını ifade eder. 
+
+Kurumsal ağlar, çalışanların işbirliği yapması, veri ve dosya paylaşımı, e-posta iletişimi gibi gğnlğk iş süreçlerini desteklemek için kullanılır. 
+
+Kurumsal ağ güvenliği, bir organizasyonun iç ağına yönelik tehditlere karşı koruma sağlama pratiğini ifade eder. 
+
+Bu, ağa yetkisiz erişimden, veri sızıntısından veya diğer siber saldırılardan korunmayı içerir. Ayrıca, çalışanların ve organizasyonun veri güvenliği politikalarına uygun davranmaları teşvik edilir. 
+
+
+	Kablosuz Ağ(Wıreless Network):
+
+Kablosuz ağ, bilgisayarlar, telefonlar, tabletler, ve diğer cihazların kablosuz iletişim teknolojileri aracılığıyla birbirleriyle veya internetle iletişim kurmasını sağlayan bir ağ türüdür. Bu iletişim Wi-Fi, bluetooth veya diğer kablosuz iletişim protokollerini kullanarak gerçekleştirilir. 
+
+Kablosuz ağlar, kablolu ağlara göre daha esneklik ve mobilite sağlar. 
+
+Kablosuz ağ güvenliği, kablosuz ağları yetkisiz erişim ve siber saldrılardan koruma pratiğini ifade eder. 
+
+KAblosuz ağ güvenliği, ağın gizliliğini, bütünlüğünü ve erişilebilirliğini korumayı amaçlar. 
